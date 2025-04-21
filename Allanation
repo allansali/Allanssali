@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SSALI ALLAN Campaign</title>
+    <style>
+        body { font-family: Arial, sans-serif; color: #333; }
+        .header { text-align: center; padding: 20px; }
+        .main { text-align: center; padding: 50px; }
+        .image { margin: 20px; }
+        .section { margin: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Welcome to SSALI ALLAN's Campaign!</h1>
+    <input type="text" placeholder="Search...">
+</div>
+
+<div class="main">
+    <img src="path-to-image-of-ssali-allan.jpg" class="image" alt="Ssali Allan">
+    <h2>"Youth for Progress, Progress for All"</h2>
+    <p>Ssali Allan, affectionately known as 'Young Napoleon,' is dedicated to championing the interests of youth in Nansana.</p>
+</div>
+
+<div class="section">
+    <h2>Who is Ssali Allan?</h2>
+    <p>Background information and vision statement.</p>
+</div>
+
+<div class="section">
+    <h2>Our Vision and Goals</h2>
+    <ul>
+        <li>Youth Empowerment</li>
+        <li>Education Initiatives</li>
+        <li>Job Creation</li>
+        <li>Community Engagement</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Join the Movement</h2>
+    <p>Support Ssali Allan's journey to parliament!</p>
+    <form>
+        <input type="email" placeholder="Enter your email">
+        <button type="submit">Subscribe</button>
+    </form>
+</div>
+
+<div class="section">
+    <h2>Contact Us</h2>
+    <p>Email: example@domain.com</p>
+    <p>Phone: +256 7xx xxx xxx</p>
+</div>
+
+</body>
+</html>
